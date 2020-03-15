@@ -23,4 +23,6 @@ USECASE : you have a new task :
     PS : do not forget to validate all needed test and verifications in your branch before merge it to master
 
 REMAINDER : do not push any affected or untested branches to master, just to keep it clean and 100% healthy.
+
+{to be continued for more details ...}
  
