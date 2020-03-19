@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+    mysql-8-db:
+        container_name: claimersdb
+        image: bader00/claimers:db
+        ports:
+            - "3307:33060"
+        networks:
+            - claimers-net
+networks:
+    claimers-net:
